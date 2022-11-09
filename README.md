@@ -1,1 +1,2 @@
-# Covid-Data-Tableau-Visualization-PortfolioProject2
+# Tableau-Visualization-PortfolioProject2
+[Tableau Dashboard](https://public.tableau.com/app/profile/tumininu.sosanya)
